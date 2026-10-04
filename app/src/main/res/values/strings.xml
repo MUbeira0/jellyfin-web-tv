@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jellyfin Web</string>
+    <string name="server_title">Servidor de Jellyfin</string>
+    <string name="server_message">Dirección de tu servidor, por ejemplo https://jellyfin.midominio.com</string>
+    <string name="open">Abrir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="exit">Salir</string>
+    <string name="menu_reload">Recargar</string>
+    <string name="menu_change_server">Cambiar de servidor</string>
+</resources>

@@ -1,0 +1,3 @@
+Android TV wrapper that opens your Jellyfin web client full screen in its TV layout, so web plugins such as Home Screen Sections and Media Bar look the same as in a browser and can be used with a remote.
+
+Install: sideload `JellyfinWebTV.apk` (for example with the Downloader app), open "Jellyfin Web", and enter your server address on first launch. Press Menu on the remote to reload or change the server.
